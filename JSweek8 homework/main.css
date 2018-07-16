@@ -1,0 +1,17 @@
+body{
+    background-color: beige;
+    font-family:sans-serif;
+}
+
+#dataDiv{
+    display:flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    align-items: center;
+
+}
+
+#searchDiv{
+    
+}
